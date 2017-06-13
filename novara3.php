@@ -2,6 +2,12 @@
 		$title = "architetture-civili";
 		include_once 'header.php';
 	?>
+		<div id="container" class="container-fluid">
+				<div class="row">
+				<div class="col-md-3">
+				</div>
+					
+		<div class="col-md-8">	
 		<section>
 			<h1>Architetture civili</h1>
 			<ul>
@@ -27,6 +33,7 @@
 			<img src="images/casa-quaroni.jpg">
 			<p>Casa Quaroni</p>
 		</section>
+		</div>
 		<!-- /.container -->
 		<!-- Bootstrap core JavaScript
 		================================================== -->
