@@ -41,12 +41,12 @@
 						</a>
 					</div>
 						<ul class="nav navbar-nav">
-						<li><?php if ($title == "alpi") { print ' class="active"';}?>><a href="alpi.php">alpi</a></li>
-						<li><?php if ($title == "lago-maggiore") { print ' class="active"';}?>><a href="lago-maggiore.php">lago maggiore</a></li>
-						<li><?php if ($title == "novara") { print ' class="active"';}?>><a href="novara.php">novara</a></li>
-						<li><?php if ($title == "monumenti-e-luoghi-di-interesse") { print ' class="active"';}?>><a href="novara1.php">monumenti e luoghi di interesse</a></li>
-						<li><?php if ($title == "centro-storico") { print ' class="active"';}?>><a href="novara2.php">centro storico</a></li>
-						<li><?php if ($title == "architetture-civili") { print ' class="active"';}?>><a href="novara3.php">architetture civili</a></li>						
+						<li<?php if ($title == "alpi") { print ' class="active"';}?>><a href="alpi.php">alpi</a></li>
+						<li<?php if ($title == "lago-maggiore") { print ' class="active"';}?>><a href="lago-maggiore.php">lago maggiore</a></li>
+						<li<?php if ($title == "novara") { print ' class="active"';}?>><a href="novara.php">novara</a></li>
+						<li<?php if ($title == "monumenti-e-luoghi-di-interesse") { print ' class="active"';}?>><a href="novara1.php">monumenti e luoghi di interesse</a></li>
+						<li<?php if ($title == "centro-storico") { print ' class="active"';}?>><a href="novara2.php">centro storico</a></li>
+						<li<?php if ($title == "architetture-civili") { print ' class="active"';}?>><a href="novara3.php">architetture civili</a></li>						
 					</ul>
 				</div>
 			</nav>
