@@ -2,6 +2,12 @@
 		$title = "novara";
 		include_once 'header.php';
 	?>
+		<div id="container" class="container-fluid">
+				<div class="row">
+				<div class="col-md-3">
+				</div>
+					
+		<div class="col-md-8">	
 		<section>
 			<h1>Novara</h1>
 		<nav>
@@ -26,6 +32,7 @@
 			<p>Risaie allagate alla periferia della città</p>
 			
 		</section>
+		</div>
 		<!-- /.container -->
 		<!-- Bootstrap core JavaScript
 		================================================== -->
