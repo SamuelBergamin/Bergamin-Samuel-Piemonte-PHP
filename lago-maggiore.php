@@ -1,15 +1,15 @@
 	<?php
-		$title = "Home";
+		$title = "lago-maggiore";
 		include_once 'header.php';
 	?>
 	<body>
 		<section>
 			<h1>Il lago Maggiore</h1>
-			<p>Il <strong>lago Maggiore</strong> è un lago prealpino di origine fluvioglaciale, il secondo per superficie in Italia. Il suo nome
-			"Maggiore" deriva dal fatto che un tempo si riteneva il più esteso dei laghi prealpini.</p>
-			<p>Il lago Maggiore si trova ad un'altezza di circa 193 m s.l.m., la sua superficie è di 212 km2 di cui circa l'80%
-			è situata in territorio italiano e il rimanente 20% in territorio svizzero. Ha un perimetro di 170 km e una
-			lunghezza di 64,37 km (la maggiore tra i laghi italiani); la larghezza massima è di 10 km e quella media di
+			<p>Il <strong>lago Maggiore</strong> Ã¨ un lago prealpino di origine fluvioglaciale, il secondo per superficie in Italia. Il suo nome
+			"Maggiore" deriva dal fatto che un tempo si riteneva il piÃ¹ esteso dei laghi prealpini.</p>
+			<p>Il lago Maggiore si trova ad un'altezza di circa 193 m s.l.m., la sua superficie Ã¨ di 212 km2 di cui circa l'80%
+			Ã¨ situata in territorio italiano e il rimanente 20% in territorio svizzero. Ha un perimetro di 170 km e una
+			lunghezza di 64,37 km (la maggiore tra i laghi italiani); la larghezza massima Ã¨ di 10 km e quella media di
 			3,9 km.</p>
 			<img src="images/lago-maggiore.jpg">
 			<p>Il lago visto da sopra Brissago (Svizzera)</p>
@@ -17,7 +17,7 @@
 		<section>
 	
 			<h2>Clima e statistiche</h2>
-			<p>Il Lago Maggiore è caratterizzato da inverni freddi, ma più miti rispetto all'entroterra, e moderatamente
+			<p>Il Lago Maggiore Ã¨ caratterizzato da inverni freddi, ma piÃ¹ miti rispetto all'entroterra, e moderatamente
 			nevosi (con accumuli medi di 10 cm per ogni nevicata e talvolta anche superiori ai 30 cm fino ad un
 			massimo di 50 cm), le estati sono moderatamente calde umide e temporalesche, la temperatura media di
 			gennaio si attesta sui 2 gradi centigradi, con punte di 3 gradi sul versante settentrionale del golfo Borromeo,
@@ -28,8 +28,8 @@
 		<section>
 			<h3>Luoghi</h3>
 			<p>Tra i luoghi caratteristici ricordiamo il<strong> Mottarone</strong>, conosciuto anche come "Montagna dei due laghi" per la
-			sua particolare posizione tra Lago d'Orta e Lago Maggiore, è il più alto rilievo del Vergante. Dalla sua vetta,
-			che in inverno si trasforma in una frequentata stazione sciistica, si gode uno dei più bei panorami sulle <a href="alpi.php">Alpi</a>
+			sua particolare posizione tra Lago d'Orta e Lago Maggiore, Ã¨ il piÃ¹ alto rilievo del Vergante. Dalla sua vetta,
+			che in inverno si trasforma in una frequentata stazione sciistica, si gode uno dei piÃ¹ bei panorami sulle <a href="alpi.php">Alpi</a>
 			centro occidentali, sulla Pianura lombardo-piemontese e su sette laghi (Maggiore, Orta, Mergozzo, Varese,
 			Comabbio, Monate e Biandronno).</p>
 			<img src="images/Mottarone.jpg">
@@ -40,6 +40,5 @@
 		<!-- Bootstrap core JavaScript
 		================================================== -->
 	<?php
-		$title = "Home";
 		include_once 'footer.php';
 	?>
