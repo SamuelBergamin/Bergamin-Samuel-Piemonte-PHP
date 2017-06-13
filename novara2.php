@@ -2,7 +2,6 @@
 		$title = "centro-storico";
 		include_once 'header.php';
 	?>
-	<body>
 		<section>
 			<h1>Centro storico</h1>
 			<p>Il monumento più celebre di Novara è la <strong>Basilica di San Gaudenzio</strong>, costruita tra fine Cinquecento ed
