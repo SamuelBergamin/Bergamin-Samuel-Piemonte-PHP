@@ -5,8 +5,9 @@
 			<div id="container" class="container-fluid">
 				<div class="row">
 				<div class="col-md-3">
+				</div>
 					
-			
+		<div class="col-md-8">	
 		<section>
 			<h1>Piemonte</h1>
 					
@@ -22,7 +23,7 @@
 			<img src="images/alpi.jpg ">
 			<p><a href="index.php">Torna alla pagina principale</a></p>
 		</section>
-			</div>		
+		</div>		
 					</div>
 				</div>
 			</div>
