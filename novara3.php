@@ -2,7 +2,6 @@
 		$title = "architetture-civili";
 		include_once 'header.php';
 	?>
-	<body>
 		<section>
 			<h1>Architetture civili</h1>
 			<ul>
