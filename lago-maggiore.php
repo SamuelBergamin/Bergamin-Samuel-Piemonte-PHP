@@ -2,6 +2,12 @@
 		$title = "lago-maggiore";
 		include_once 'header.php';
 	?>
+		<div id="container" class="container-fluid">
+				<div class="row">
+				<div class="col-md-3">
+				</div>
+					
+		<div class="col-md-8">	
 		<section>
 			<h1>Il lago Maggiore</h1>
 			<p>Il <strong>lago Maggiore</strong> è un lago prealpino di origine fluvioglaciale, il secondo per superficie in Italia. Il suo nome
@@ -35,6 +41,7 @@
 			<p>La vetta del Mottarone</p>
 			<p>Il Lago Maggiore dista circa 35 km dal  <a href="novara2.php">centro storico di Novara</a> e circa 50 km da Vercelli.</p>
 		</section>
+		</div>
 		<!-- /.container -->
 		<!-- Bootstrap core JavaScript
 		================================================== -->
