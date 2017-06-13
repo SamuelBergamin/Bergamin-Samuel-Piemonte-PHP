@@ -2,6 +2,12 @@
 		$title = "centro-storico";
 		include_once 'header.php';
 	?>
+		<div id="container" class="container-fluid">
+				<div class="row">
+				<div class="col-md-3">
+				</div>
+					
+		<div class="col-md-8">	
 		<section>
 			<h1>Centro storico</h1>
 			<p>Il monumento più celebre di Novara è la <strong>Basilica di San Gaudenzio</strong>, costruita tra fine Cinquecento ed
@@ -15,6 +21,7 @@
 			<img src="images/duomo.jpg">
 			<p>Porticato della piazza del Duomo</p>
 		</section>
+		</div>
 		<!-- /.container -->
 		<!-- Bootstrap core JavaScript
 		================================================== -->
