@@ -6,19 +6,10 @@
 				<div class="row">
 				<div class="col-md-3">
 					
-				</div>
-					<div id="main" class="col-md-8">
+			
 		<section>
 			<h1>Piemonte</h1>
-			
-			<div class="row">
-				<div class="col-md-4">
-					<img src="">
-				</div>
-				<div class="col-md-8">
 					
-			
-			
 			<p>Le <strong>Alpi</strong> sono la catena montuosa più importante d’Europa. Si chiamano in francese <em>Alpes</em>, in tedesco <em>Alpen</em>,
 			in sloveno <em>Alpe</em>. Sesto Pompeo Festo nel suo <em>Primo Libro</em> attesta che il nome deriva da <em>ALBUS</em> (bianco) che
 			i Sabini pronunciavano <em>Alpus</em> e indicava il colore sempre bianco della catena innevata anche durante la
@@ -31,6 +22,7 @@
 			<img src="images/alpi.jpg ">
 			<p><a href="index.php">Torna alla pagina principale</a></p>
 		</section>
+			</div>		
 					</div>
 				</div>
 			</div>
