@@ -1,5 +1,5 @@
 	<?php
-		$title = "Home";
+		$title = "novara";
 		include_once 'header.php';
 	?>
 	<body>
@@ -15,23 +15,22 @@
 				</li>
 			</ul>
 		</nav>
-			<p><strong>Novara</strong>Ë un comune italiano di 105.574 abitanti, capoluogo dell'omonima provincia in Piemonte. » il
+			<p><strong>Novara</strong>√® un comune italiano di 105.574 abitanti, capoluogo dell'omonima provincia in Piemonte. √à il
 			secondo comune della regione per popolazione dopo Torino e crocevia di importanti traffici commerciali tra
 			gli assi viari che congiungono Milano a Torino e Genova alla Svizzera.</p>
-			<p>Simbolo della citt‡ Ë la cupola della Basilica di San Gaudenzio, alta 121 metri.</p>
+			<p>Simbolo della citt√† √® la cupola della Basilica di San Gaudenzio, alta 121 metri.</p>
 			<img src="images/cupola-novara.jpg">
 			<p>La cupola della Basilica di San Gaudenzio</p>
 			<p>Novara dista 49 km da Milano (15 km dal confine con la regione Lombardia), 95 km da Torino, 23 km da
 			Vercelli. Dista inoltre circa 35 km dal <a href="lago-maggiore.php">Lago Maggiore</a> e 40 km dal Lago d'Orta.</p>
 			<img src="images/risaie.jpg">
-			<p>Risaie allagate alla periferia della citt‡</p>
+			<p>Risaie allagate alla periferia della citt√†</p>
 			
 		</section>
 		<!-- /.container -->
 		<!-- Bootstrap core JavaScript
 		================================================== -->
 	<?php
-		$title = "Home";
 		include_once 'footer.php';
 	?>
 		
