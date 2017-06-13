@@ -2,7 +2,6 @@
 		$title = "monumenti-e-luoghi-di-interesse";
 		include_once 'header.php';
 	?>
-	<body>
 		<section>
 			<h1>Monumenti e luoghi d'interesse</h1>
 			<p>L'antico nucleo cittadino di Novara, di forma pressoché pentagonale, è situato su un modesto rilievo
