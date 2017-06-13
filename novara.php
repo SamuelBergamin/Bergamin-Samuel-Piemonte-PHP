@@ -2,7 +2,6 @@
 		$title = "novara";
 		include_once 'header.php';
 	?>
-	<body>
 		<section>
 			<h1>Novara</h1>
 		<nav>
