@@ -2,7 +2,6 @@
 		$title = "lago-maggiore";
 		include_once 'header.php';
 	?>
-	<body>
 		<section>
 			<h1>Il lago Maggiore</h1>
 			<p>Il <strong>lago Maggiore</strong> è un lago prealpino di origine fluvioglaciale, il secondo per superficie in Italia. Il suo nome
